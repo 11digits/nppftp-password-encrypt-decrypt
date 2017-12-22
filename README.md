@@ -1,4 +1,4 @@
-A simple utility to encrypt / decrypt NPPFTP passwords using the default key2
+A simple utility to encrypt / decrypt NPPFTP passwords using the default key [NppFTP00]
 
 Code is a partial fork of: https://github.com/ashkulz/NppFTP
 I do not take credit for the Encryption and StringUtils classes
